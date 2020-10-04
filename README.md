@@ -1,6 +1,6 @@
 # Accessing-Images
 
-### Librariues
+### Libraries
          import numpy      
          import cv2
 
